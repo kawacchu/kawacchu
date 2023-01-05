@@ -3,4 +3,4 @@
 
 <img alt="MuleSoft-Developer-I" src="https://user-images.githubusercontent.com/44835435/210501139-38593aee-2476-4802-8ebf-b92fa5098f91.png" width=128 height=128 />
 
-<img alt="Flosum-Professional" src="https://user-images.githubusercontent.com/44835435/210506568-030266c9-3753-4fc2-b7b9-d634c8aa0ab2.png" width=128 height=128 />
+<img alt="Flosum-Professional" src="https://user-images.githubusercontent.com/44835435/210506568-030266c9-3753-4fc2-b7b9-d634c8aa0ab2.png" width=128 height=128 /><img alt="Flosum-Expert" src="https://user-images.githubusercontent.com/44835435/210734602-479e4e06-bb81-4f88-829c-ae07d1538345.png" width=128 height=128 />
